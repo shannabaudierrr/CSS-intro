@@ -16,3 +16,12 @@ color: white;
 header {
     background-color: wheat;
 }
+.css-intro-button {
+    background-color: mediumaquamarine;
+    font-size: 30px;
+    color: white;
+}
+.css-intro-button:hover {
+    background-color: darkcyan;
+}
+    
