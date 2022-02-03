@@ -1,1 +1,18 @@
-
+body {
+    background-color: maroon;
+}
+.css-intro-image {
+    width: 100%;
+}
+.css-intro-headline {
+    color: plum;
+}
+.unordered-list-words {
+color: white;
+}
+.ordered-list-words {
+    color: white;
+}
+header {
+    background-color: wheat;
+}
